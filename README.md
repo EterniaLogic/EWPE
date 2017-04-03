@@ -1,7 +1,7 @@
 # EWPE
 Extreme Web Page Editor
 
-Original Source code from 2007.
+Original C# Source code from 2007.
 
 Author: Brent Clancy (C) 2017
 
