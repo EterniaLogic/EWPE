@@ -1,0 +1,14 @@
+bin\Release\SyntaxHighlightingTextBox.dll
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+obj\Release\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+obj\Release\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+obj\Release\SyntaxHighlightingTextBox.dll
+bin\Debug\SyntaxHighlightingTextBox.dll
+bin\Debug\SyntaxHighlightingTextBox.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\UrielGuy.SyntaxHighlightingTextBox.AutoCompleteForm.resources
+obj\Debug\UrielGuy.SyntaxHighlightingTextBox.SyntaxHighlightingTextBox.resources
+obj\Debug\SyntaxHighlightingTextBox.csproj.GenerateResource.Cache
+obj\Debug\SyntaxHighlightingTextBox.dll
+obj\Debug\SyntaxHighlightingTextBox.pdb

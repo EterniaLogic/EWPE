@@ -1,0 +1,259 @@
+#include		
+_alpha  		
+_currentframe		
+_droptarget		
+_focusrect		
+_framesloaded "Returns the number of loaded frames(Ready to play)."		
+_height "Sets or gets the height of the movie."		
+_highquality		
+_level		
+_name  		
+_parent  		
+_quality		
+_root		
+_rotation		
+_soundbuftime  		
+_target		
+_totalframes		
+_url		
+_visible		
+_width		
+_x  		
+_xmouse  		
+_xscale  		
+_y  		
+_ymouse  		
+_yscale  		
+abs(number) "Math object:Returns the absolute value."		
+acos(number) "Math object:Returns the arccosine of a number."		
+appendChild(child)		
+asin(number) "Math object:Returns the arcsine of a number."		
+atan(number) "Math object:Returns the arctangent of a number."		
+atan2(y,x) "Math object:Returns the arctangent of y/x."		
+attachMovie("idName", "newName", depth) "Sprite object: Creates instance of sprite which has 'Export as assets' property."		
+attachSound(soundname)		
+attributes		
+BACKSPACE "Key object: Backspace key. (9)"		
+CAPSLOCK "Capslock key. (20)" 		
+ceil(number) "Math object:Returns the ceiling of a number."		
+charAt(index) "String object:Returns the character at the specified index." 		
+charCodeAt(index) "String object:Returns an integer representing the Unicode encoding of the character at the specified index." 		
+childNodes		
+cloneNode(deep)		
+close() "XMLSocket object: Close the connect."		
+concat(array1,array2,...) "Array object: Combinate two or more arrays and returns the result."		
+concat(string1,string2) "String object:Returns a string value containing the concatenation of two supplied strings." 		
+connect(host,port) "XMLSocket object: Connects to specified host and port."		
+continue		
+CONTROL "Ctrl key. (17)" 		
+cos(number) "Math object:Returns the cosine of a number."		
+createElement(name)		
+createTextNode(name)		
+delete		
+DELETEKEY "Delete key. (46)"		
+do		
+docTypeDecl		
+DOWN "Down arrow key. (40)"		
+duplicateMovieClip("newName",depth)"Sprite object: Make a duplicate of a sprite."		
+duplicateMovieClip(target,"newname",depth) "Make a duplicate of a sprite."		
+else		
+END "End key. (35)"		
+ENTER "Enter key. (13)"  		
+ESCAPE "Escape key. (27)"		
+escape(string) "Convert to a string and encodes it in URL format."		
+eval		
+evaluate		
+exp(number) "Math object:Returns the exponential value of a number."		
+firstChild		
+floor(number) "Math object:Returns the floor of a number."		
+for		
+fromCharCode(code1,[code2,code3...]) "String object:Returns a string from character values." 		
+FSCommand("Command",parameters) "Sends FSCommand to movie player's container(IE for example)."		
+function		
+getAscii()"Returns the ASCII code of the last key pressed or released."		
+getBeginIndex() "Selection object: Returns index at the beginning of the selection, -1 if none."		
+getBounds(targetCoordinateSpace)"Sprite object: Returns the bounds of the sprite for the specified target coordinate space."		
+getBytesLoaded()"Sprite object: Returns the number of bytes loaded."		
+getBytesTotal()"Sprite object: Returns the size of the specified sprite."		
+getCaretIndex() "Selection object: Returns the position of the caret, -1 if none."		
+getCode() "Returns the virtual key code of the last key pressed or released." 		
+getDate() "Date object: Returns the day of the month value in a Date object according to local time."		
+getDay() "Date object: Returns week day in a Date object."		
+getEndIndex() "Selection object: Returns the ending index of the selection, -1 if none."		
+getFocus() "Selection object: Returns the variable name of the focused edit text field, null if none."		
+getFullYear() "Date object: Returns year value in a Date object."		
+getHours() "Date object: Returns hour value in a Date object."		
+getHours() "Date object: Returns hours value in a Date object."		
+getMilliseconds() "Date object: Returns milliseconds value in a Date object."		
+getMinutes() "Date object: Returns minutes value in a Date object."		
+getMonth() "Date object: Returns month value in a Date object."		
+getPan()		
+getProperty(target, property) "Returns the value of the specified property for the sprite instance."		
+getRGB() "Color object: Gets the color value."		
+getSeconds() "Date object: Returns second value in a Date object."		
+getTime() "Date object: Returns time value in a Date object."		
+getTimer() "Returns the number of milliseconds since the movie started playing."		
+getTimezoneOffset() "Date object: Returns the difference between local time and UTC time in minutes."		
+getTransform()		
+getTransform() "Color object: Gets the color transform value."		
+getURL(url[,window[,variables]]) "Tell Web browser to navigate to specified URL."		
+getUTCDate() "Date object: Returns the day of the month value in a Date object according to Universal Coordinated Time."		
+getUTCDay() "Date object: Returns week day in a Date object according to UTC time."		
+getUTCFullYear() "Date object: Returns year value in a Date object according to UTC time."		
+getUTCHours() "Date object: Returns hours value in a Date object according to UTC time."		
+getUTCMilliseconds() "Returns milliseconds value in a Date object according to UTC time."		
+getUTCMinutes() "Date object: Returns minutes value in a Date object according to UTC time."		
+getUTCMonth() "Date object: Returns month value in a Date object according to UTC time."		
+getUTCSeconds() "Date object: Returns seconds value in a Date object according to UTC time."		
+getVersion() "Returns movie player version information."		
+getVolume()		
+getYear() "Date object: Returns year value in a Date object."		
+globalToLocal(point)"Sprite object: Converts global coordinate to sprite coordinate."		
+gotoAndPlay(frameNumber) "Tell movie player to jump to specified frame."		
+gotoAndStop(frameNumber) "Tell movie player to jump to specified frame and stop there."		
+haschildNodes()		
+hide() "Mouse object: Hides the cursor."		
+hitTest(x, y, shapeFlag)"Sprite object: Check if a point or sprite intersects another sprite."  		
+HOME "Home key. (36)"		
+if 		
+ifFrameLoaded(frameNumber) "Checks whether a specific frame are loaded."		
+indexOf(subString,[beginIndex]) "String object:Returns the character position where the first occurrence of the specified substring " 		
+Infinity  		
+INSERT "Insert key. (45)"  		
+insertBefore(childNode, beforeNode)		
+int		
+isDown(keyCode) "Checks whether the key is down."  		
+isFinite		
+isNaN(parameters) "Is it not a number?"		
+isToggled(keyCode) "Checks whether the CapsLock or NumLock key is toggled."		
+join(separator) "Array object: Inserts the separator between the elements, concatenates them and returns the result."		
+lastChild		
+lastIndexOf(subString,[beginIndex]) "String object:Returns the last occurrence of the substring within a string object." 		
+LEFT "Left arrow key. (37)"		
+length() "Array object: Returns the size of the array object."		
+length() "String object:Returns the length of a string object." 		
+length(string) "Returns the length of the specified string."		
+LN10 "Math object:Returns constant, the natural logarithm of 10."		
+LN2 "Math object:Returns constant, the natural logarithm of 2."		
+load(url)		
+loaded		
+loadMovie("url",target)"Sprite object: Load a sprite from an URL."		
+loadVariables("url",target)"Sprite object: Load variables from an URL."		
+localToGlobal(point)"Sprite object: Converts sprite coordinate to global coordinate."		
+log(number) "Math object:Returns the logarithm of a number."		
+LOG10E "Math object:Returns constant, the base-10 logarithm of e (0.434)."		
+LOG2E "Math object:Returns constant, the base-2 logarithm of e (1.442)."		
+max(number1,number2) "Math object:Compares two values and returns the larger one."		
+MAX_VALUE "The largest number in SWF."		
+maxscroll  		
+min(number1,number2) "Math object:Compares two values and returns the lesser one."		
+MIN_VALUE "The smallest number in SWF."		
+NaN		
+NEGATIVE_INFINITY  		
+new  		
+newline  		
+nextFrame()"Sprite object: Go to the next frame."		
+nextSibling		
+nodeName		
+nodeType		
+nodeValue		
+Number(expression) "Converts the argument to number."		
+onClose() "XMLSocket object: Callback invoked when connection closed."		
+onConnect() "XMLSocket object: Callback invoked when connection is established."		
+onLoad(success) "XML object: Callback invoked when load,sendAndLoad or loadSound completes."		
+onXML(xmlText) "XMLSocket object: Callback invoked when XML was got from server."		
+parentNode		
+parseFloat(string) "Converts to a floating-point number."		
+parseInt(string) "Converts to a integer number."		
+parseXML(string) "XML object: Parses XML string into this XML object."		
+PGDN "Page down key. (34)"  		
+PGUP "Page up key. (33)"		
+play()"Sprite object: plays the movie."		
+pop() "Array object: Remove last element and returns it."		
+POSITIVE_INFINITY  		
+pow(base,power) "Math object:Returns base to the power of power."		
+prevFrame()"Sprite object: Go to the previous frame."		
+previousSibling		
+print(target,type) "Print a movie clip."		
+printAsBitmap(target,type) "Prints a movie clip as a bitmap."		
+push(value1,value2,...) "Array object: Adds new elements to array, and returns the length."		
+random() "Math object:Returns a random number between 0 and 1."		
+removeMovieClip(target)"Sprite object: Removes a sprite object."		
+removeNode()		
+return		
+reverse() "Array object: Reverses the array."		
+RIGHT "Right arrow key. (39)"		
+round(number) "Math object:Returns a numeric rounded to the nearest integer."		
+scroll		
+send(url,window)		
+sendAndLoad(url,newXMLobject)		
+set		
+setDate(newDateObject) "Date object: set new date value."		
+setFocus(instance) "Selection object: Focuses the specified edit text."		
+setFullYear(newYear) "Date object: set year value in the Date object."		
+setHours(newHour) "Date object: set hours value in the Date object."		
+setMilliseconds(newMillSec) "Date object: set milliseconds value in the Date object."		
+setMinutes(newMin) "Date object: set minutes value in the Date object."		
+setMonth(newMonth) "Date object: set month value in the Date object."		
+setPan(value)		
+setProperty(target,property,value) "Set a property of a movie clip."		
+setRGB(0xRRGGBB) "Color object: Sets an RGB color for the Color object."		
+setSeconds(newSecond) "Date object: set seconds value in the Date object."		
+setSelection(beginIndex, endIndex) "Selection object: Sets the beginning and end of the text selection."		
+setTime(milliseconds) "Date object: sets date in the Date object in milliseconds."		
+setTransform(transformObject)		
+setTransform(transformObject)"Color object: Sets the color/sound transform infomation."		
+setUTCDate(newDateObject) "Date object: set date value using UTC time."		
+setUTCFullYear(newYear) "Date object: set year value in the Date object using UTC time."		
+setUTCHours(newHour) "Date object: set hours value in the Date object using UTC time."		
+setUTCMilliseconds(newMillSec) "Date object: set milliseconds value in the Date object using UTC time."		
+setUTCMinutes(newMin) "Date object: set minutes value in the Date object using UTC time."		
+setUTCMonth(newMonth) "Date object: set month value in the Date object using UTC time."		
+setUTCSeconds(newSecond) "Date object: set seconds value in the Date object using UTC time."		
+setVolume(value)		
+setYear(newYear) "Date object: set year value in the Date object."		
+SHIFT "Shift key. (16)"		
+shift() "Array object: Remove first element and returns it."		
+show() "Mouse object: Shows the cursor."		
+sin(number) "Math object:Returns the sine of a number."		
+slice(start,end) "Array object: Returns a section of an array from start up to end."		
+slice(start,end) "String object:Returns a substring(from start to end position) of a string object." 		
+sort() "Array object: Sorts the elements."		
+SPACE "Space bar key. (32)"		
+splice(start, deleteCount, value0,value1,...valueN) "Array object: removing 'deleteCount' elements from 'start' and inserting new elements."		
+split(sepstring)  		
+sqrt(number) "Math object:Returns the square root of a number."		
+startDrag(target,lockcenter,left,top,right,bottom) "Start a drag operation on a movie clip."		
+startDrag(target,lockcenter,left,top,right,bottom)"Sprite object: Start a drag operation on a sprite."		
+status		
+stop()"Sprite object: Stops playing."		
+stopAllSounds() "Stop all sound."		
+stopDrag() "Stop the current drag action."		
+stopDrag()"Ends a drag operation."		
+substr(start,length) "String object:Returns a substring from start through length." 		
+substring(start,end) "String object:Returns the substring consisting of the characters at the specified location within a string object." 		
+swapDepths(target)"Sprite object: Swaps the z-order of two sprite objects."		
+TAB "Tab key. (9)"		
+tan(number) "Math object:Returns the tangent of a number."		
+targetPath(spriteObject) "Returns the target path string for a specified sprite."		
+tellTarget(target)		
+this		
+toggleHighQuality()		
+toLowerCase() "String object:Returns a string where all characters have been converted to lowercase." 		
+toString() "Date object: Returns a string representation the Date object."		
+toString(radix) "Convert to string."		
+toString(start, deleteCount, value0,value1,...valueN) "Array object: Returns a string representation of the array object."		
+toUpperCase() "String object:Returns a string where all characters have been converted to upperCase." 		
+trace(expression)		
+typeof(expression)		
+unescape(string)		
+unloadMovie()"Sprite object: Removes a sprite object."		
+unshift(value0,value1,...valueN) "Array object: Add elements at the beginning of the array object and returns the length."		
+UP "Up arrow key. (38)"		
+UTC(year, month, day, hours, minutes, seconds,milliseconds) "Date object: Returns the number of milliseconds between midnight, January 1, 1970 UTC and the input date."		
+valueOf()		
+var		
+void		
+while		
+with	
+xmlDecl

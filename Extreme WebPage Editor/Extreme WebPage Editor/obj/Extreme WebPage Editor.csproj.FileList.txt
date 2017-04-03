@@ -1,0 +1,20 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Editor.cram.resources
+obj\Release\Editor.Properties.Resources.resources
+obj\Release\Extreme WebPage Editor.csproj.GenerateResource.Cache
+obj\Release\Extreme WebPage Editor.TrustInfo.xml
+obj\Release\Extreme WebPage Editor.exe.manifest
+obj\Release\Extreme WebPage Editor.application
+obj\Release\Extreme WebPage Editor.exe
+obj\Release\Extreme WebPage Editor.pdb
+..\..\Extreme WebPage Editor.exe.config
+..\..\Extreme WebPage Editor.exe.manifest
+..\..\Extreme WebPage Editor.application
+..\..\Extreme WebPage Editor.exe
+..\..\Extreme WebPage Editor.pdb
+bin\Release\Extreme WebPage Editor.exe.config
+bin\Release\Extreme WebPage Editor.exe.manifest
+bin\Release\Extreme WebPage Editor.application
+bin\Release\Extreme WebPage Editor.exe
+bin\Release\Extreme WebPage Editor.pdb
+bin\Release\SyntaxHighlightingTextBox.dll

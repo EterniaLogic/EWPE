@@ -1,0 +1,15 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\Extreme Web-Based Editor.csproj.GenerateResource.Cache
+obj\Release\Editor.Properties.Resources.resources
+obj\Release\Editor.cram.resources
+obj\Release\Editor.about1.resources
+obj\Release\Extreme Web-Based Editor.TrustInfo.xml
+obj\Release\Extreme Web-Based Editor.exe.manifest
+obj\Release\Extreme Web-Based Editor.application
+..\Extreme Web-Based Editor.exe.config
+..\Extreme Web-Based Editor.exe.manifest
+..\Extreme Web-Based Editor.application
+obj\Release\Extreme Web-Based Editor.exe
+obj\Release\Extreme Web-Based Editor.pdb
+..\Extreme Web-Based Editor.exe
+..\Extreme Web-Based Editor.pdb

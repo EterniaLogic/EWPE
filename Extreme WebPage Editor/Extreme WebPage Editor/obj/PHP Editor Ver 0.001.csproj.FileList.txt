@@ -1,0 +1,14 @@
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\WindowsApplication1.Properties.Resources.resources
+obj\Release\WindowsApplication1.cram.resources
+obj\Release\WindowsApplication1.about1.resources
+obj\Release\PHP Editor Ver 0.001.csproj.GenerateResource.Cache
+obj\Release\PHP Editor Cram.TrustInfo.xml
+obj\Release\PHP Editor Cram.exe.manifest
+obj\Release\PHP Editor Cram.application
+..\PHP Editor Cram.exe.manifest
+..\PHP Editor Cram.application
+obj\Release\PHP Editor Cram.exe
+obj\Release\PHP Editor Cram.pdb
+..\PHP Editor Cram.exe
+..\PHP Editor Cram.pdb
